@@ -5,7 +5,7 @@ This repository contains a Flask application intended for a technical interview.
 
 ## Setup Instructions
 1. Install Flask by running `pip install -r requirements.txt`.
-2. Start the Flask application with `flask run`.
+2. Start the Flask application with `python app.py`.
 
 ## Tasks
 1. **Finish the GET Endpoint:** Complete the `hello()` function in `routes.py` to render `hello_form.html`.
